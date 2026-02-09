@@ -1,0 +1,5 @@
+__pycache__/
+venv/
+.env
+# IMPORTANT: Ignore the secrets file so it never goes to GitHub
+secrets_config.py
